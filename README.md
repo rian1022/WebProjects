@@ -1,2 +1,2 @@
-# WebProjects
+# WebProject
 웹페이지
